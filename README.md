@@ -45,6 +45,8 @@ python test_main.py
 ![project2_data_summary](https://github.com/nogibjj/Mini_project_2_Yabei/assets/143656459/973ed1da-948c-4aa4-b5fe-d5cd06da283e)
 
 ![project2](https://github.com/nogibjj/Mini_project_2_Yabei/assets/143656459/94b139c6-00ee-4951-b487-c171d8cc06fc)
+![test](https://github.com/nogibjj/Mini_project_2_Yabei/assets/143656459/a2b869ab-c12f-4e2a-af00-9c051e7c08b1)
+![lint](https://github.com/nogibjj/Mini_project_2_Yabei/assets/143656459/ac7bb04e-cc29-49bd-af93-c46922b52b55)
 
 ## Whats more
 There are files ending with .pdf and .ipynb, these are the more readable script run outputs with some brief conclusions
